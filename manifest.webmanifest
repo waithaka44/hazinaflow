@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "HazinaFlow – KES Cashflow Tracker",
+  "short_name": "HazinaFlow",
+  "description": "Offline KES lump-sum runway pacer, bills reserve and M-Pesa leak tracker. Your data stays on your device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
